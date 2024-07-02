@@ -16,3 +16,8 @@ Coursework reporsitory for PGSS 2024 Computer Science Workshop
 # Lecture 2
 
 - Using .gitignore
+- lightning.ai
+
+# Lecture 3
+
+
